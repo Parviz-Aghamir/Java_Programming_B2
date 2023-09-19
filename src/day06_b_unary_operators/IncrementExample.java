@@ -21,6 +21,14 @@ public class IncrementExample {
         System.out.println(x++);
 
         System.out.println(x);
+        System.out.println();
+        System.out.println();
+
+
+
+
+
+
 
 
 
