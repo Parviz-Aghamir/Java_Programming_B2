@@ -1,6 +1,6 @@
 package day14_string;
 
-import day08_scanner_logical_operators.ScanerIntro;
+
 
 import java.util.Scanner;
 
