@@ -31,12 +31,12 @@ public class Login {
         String username = input.next();
         username = username.toLowerCase();
         System.out.print("Enter your password: ");
-        String pasword = input.next();
+        String password = input.next();
         String actualPasswordInDB = "loopcamp2023";
        // String actualusername = "loopcamp";
 
 
-        if (username.equals("java") && pasword.length() > 8 && pasword.equals(actualPasswordInDB)) {
+        if (username.equals("java") && password.length() > 8 && password.equals(actualPasswordInDB)) {
 
             System.out.println("logged in");
 
