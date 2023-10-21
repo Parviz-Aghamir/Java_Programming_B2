@@ -6,7 +6,6 @@ package day16_loops;
         Input: elephant
         Output: The middle characters: ph
 */
-
 public class MiddleChar {
 
     public static void main (String[] args){
@@ -24,14 +23,6 @@ public class MiddleChar {
             System.out.println("Middle char: "+middle);
             System.out.println("Middle chars with substring method: " +str.substring(mid, mid+1));
         }
-
-
-
-
     }
-
-
-
-
 
 }
