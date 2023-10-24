@@ -30,7 +30,7 @@ public class MinAndMax {
 
 
         while (counter<=5){
-            System.out.print("Enter number "+num+": ");
+            System.out.print("Enter number " +num+ ": ");
             int userNumber = input.nextInt();
 
 

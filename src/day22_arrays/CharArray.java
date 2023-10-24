@@ -12,6 +12,8 @@ public class CharArray {
         }
 
         System.out.println("===============");
+
+
         String word = "java";
         char[] newArr = new char[word.length()];
 
@@ -30,12 +32,16 @@ public class CharArray {
 
 
         System.out.println("===============");
+
+
         char[] charArr = word.toCharArray();
 
         for (char eachChar3:
                 charArr) {
             System.out.println(eachChar3);
         }
+
+
         System.out.println("===============");
 
 
@@ -43,9 +49,13 @@ public class CharArray {
 
 
         System.out.println("===============");
+
+
         System.out.println(charArr[0]);
 
         System.out.println("===============");
+
+
         // how can we convert a char to a String
 
         // 1st method
@@ -66,6 +76,8 @@ public class CharArray {
 
 
         System.out.println("===============");
+
+
         //3rd method
 
         String str3="";
